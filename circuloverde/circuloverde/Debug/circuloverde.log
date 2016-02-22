@@ -1,0 +1,11 @@
+﻿Build started 2/7/2016 5:21:09 PM.
+     1>Project "C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\circuloverde\circuloverde\circuloverde.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\circuloverde\Debug\circuloverde.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Alejandro\Documents\SFML-2.3.2\lib" "sfml-main-d.lib" "sfml-graphics-s-d.lib" "sfml-window-s-d.lib" "sfml-system-s-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\circuloverde\Debug\circuloverde.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\circuloverde\Debug\circuloverde.lib" /MACHINE:X86 Debug\circuloverde.obj
+         Debug\stdafx.obj
+     1>sfml-graphics-s-d.lib(RenderStates.cpp.obj) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\circuloverde\circuloverde\circuloverde.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.40

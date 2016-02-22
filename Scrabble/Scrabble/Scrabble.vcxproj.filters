@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tablero.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Diccionario.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Azulejos.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="coladeazules.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Debug\Scrabble.log" />
+    <Text Include="A Words.txt" />
+    <Text Include="B Words.txt" />
+    <Text Include="C Words.txt" />
+    <Text Include="D Words.txt" />
+    <Text Include="E Words.txt" />
+    <Text Include="F Words.txt" />
+    <Text Include="G Words.txt" />
+    <Text Include="H Words.txt" />
+    <Text Include="I Words.txt" />
+    <Text Include="J Words.txt" />
+    <Text Include="K Words.txt" />
+    <Text Include="L Words.txt" />
+    <Text Include="M Words.txt" />
+    <Text Include="N Words.txt" />
+    <Text Include="O Words.txt" />
+    <Text Include="P Words.txt" />
+    <Text Include="Q Words.txt" />
+    <Text Include="R Words.txt" />
+    <Text Include="S Words.txt" />
+    <Text Include="T Words.txt" />
+    <Text Include="U Words.txt" />
+    <Text Include="V Words.txt" />
+    <Text Include="W Words.txt" />
+    <Text Include="X Words.txt" />
+    <Text Include="Y Words.txt" />
+    <Text Include="Z Words.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="tablero.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Diccionario.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Azulejos.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="coladeazules.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="whitetile.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="azulejo.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_A.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_B.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_C.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_D.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_E.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_F.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_G.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_H.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_I.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_J.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_K.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_L.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_M.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_N.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_O.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_P.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_Q.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_R.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_S.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_T.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_U.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_V.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_W.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_X.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_Y.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="letter_Z.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="arial.ttf" />
+    <Font Include="arialbd.ttf" />
+    <Font Include="arialbi.ttf" />
+    <Font Include="ariali.ttf" />
+    <Font Include="ariblk.ttf" />
+  </ItemGroup>
+</Project>

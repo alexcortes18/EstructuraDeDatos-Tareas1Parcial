@@ -1,12 +1,12 @@
-﻿Build started 1/22/2016 12:27:49 PM.
-     1>Project "c:\Users\alejandro\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+﻿Build started 2/15/2016 9:13:45 AM.
+     1>Project "C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
      1>Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\alejandro\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\alejandro\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\alejandro\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
          Debug\stdafx.obj
      1>ConsoleApplication1.obj : error LNK2001: unresolved external symbol "class nodo * grafos" (?grafos@@3PAVnodo@@A)
-     1>c:\users\alejandro\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1 unresolved externals
-     1>Done Building Project "c:\Users\alejandro\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)) -- FAILED.
+     1>C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "C:\Users\Alejandro\Desktop\Estructura de Datos\EstructuraDeDatos-Tareas1Parcial\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)) -- FAILED.
 
 Build FAILED.
 
-Time Elapsed 00:00:00.16
+Time Elapsed 00:00:01.13
